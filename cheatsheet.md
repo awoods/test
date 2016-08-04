@@ -1,9 +1,11 @@
 cheatsheet
 
+code4lib Git workshop 08/04/2016
+
 global setup
 
   ```
-  $ git config --global user.name "Your Name"
+  $ git config --global user.name "her Name"
   $ git config --global user.email your_email@foo.com
   ```
         
@@ -84,3 +86,5 @@ undoing the last commit (before it's pushed to github):
   ```
   git reset --soft HEAD~1
   ```
+
+Just another line of text.
